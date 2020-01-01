@@ -1,0 +1,24 @@
+{
+  "name": "webpackstudy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "I am learning webpack here",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ellinsa/webpackLearning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ellinsa/webpackLearning/issues"
+  },
+  "homepage": "https://github.com/Ellinsa/webpackLearning#readme",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
