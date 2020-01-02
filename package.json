@@ -5,7 +5,7 @@
   "description": "I am learning webpack here",
   "main": "index.js",
   "scripts": {
-    "start": "webpack"
+    "start": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
