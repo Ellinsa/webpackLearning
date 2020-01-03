@@ -1,0 +1,8 @@
+$primary: rgb(157, 200, 211);
+$danger: rgb(218, 141, 179);
+@import "~bootstrap/scss/bootstrap";
+$mainColor: indianred;
+
+body {
+  background-color: $mainColor;
+}
